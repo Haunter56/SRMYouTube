@@ -12,8 +12,8 @@ Streamer.Bot Import to let Beat Saber Song Request Manager work for YouTube Live
 
 
 
-### Import actions and command for Streamer.Bot
-- There are 4 Actions and 1 command
+### Import [actions and command](https://github.com/Haunter56/SRMYouTube/blob/main/SRM4YouTubeNEW.sb) for Streamer.Bot
+- There are [4 Actions and 1 command](https://github.com/Haunter56/SRMYouTube/blob/main/SRM4YouTubeNEW.sb)
 - Enable the command
 - Open the Action "SRM-Code" and edit the "Execute Code" Subaction. Use "Find Refs" and Compile to check if the Import worked (you might need to manually add Newtonsoft.Json.dll in the references tab)
   ![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/e2d211bc-29da-4073-8c4a-ff2770dfbc5a)
