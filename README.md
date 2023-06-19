@@ -15,11 +15,12 @@
 - There are [4 Actions and 1 command](https://github.com/Haunter56/SRMYouTube/blob/main/SRM4YouTubeNEW.sb)
 - Enable the command
 - Open the Action "SRM-Code" and edit the "Execute Code" Subaction. Use the "Compile" button to make sure it compiles correctly. If not, you may need to use the "Find Refs" button. (you might need to manually add Newtonsoft.Json.dll in the references tab)
-  ![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/e2d211bc-29da-4073-8c4a-ff2770dfbc5a)
+ ![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/37f5c22e-c4b1-444f-8cb9-31b2917ccd48)
+
 
 
 ### Create Websocket server in Streamer.Bot
-![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/fe98b79b-06dc-4510-8e2f-00f6e232db7e)
+![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/29f3ade1-4c90-4c6e-951c-a78b08de1935)
 
 - Make sure to assign "SRM-Connected" to the connected action and "SRM-Message" to the message action
 - Configure (instructions also on [Krayn's repository](https://github.com/Krayn/SongRequestManager/releases))
@@ -27,7 +28,8 @@
   
 ### Make sure websocket-sharp mod in Mod Assistant is installed
 - This is found under the "Libraries" Section
-  ![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/a68947da-16a9-41e3-8b7b-a46534e2dbc6)
+  ![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/3471bbdd-b7cf-4d4b-b0f0-a2190e5fb17e)
+
 
 ### Download [SRM](https://github.com/Krayn/SongRequestManager/releases) from Krayn
 - Copy the .dll into the beat saber plugins folder
