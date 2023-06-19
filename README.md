@@ -32,10 +32,12 @@ Streamer.Bot Import to let Beat Saber Song Request Manager work for YouTube Live
 
 ### Download [SRM](https://github.com/Krayn/SongRequestManager/releases) from Krayn
 - Copy the .dll into the beat saber plugins folder
+- It is found in the SongRequestManager_v2.15.15.zip file under "assets"
+
 ### Launch Beat saber
 - Go to SRM settings
 - Enable websocket
-- Disable catCore if needed
-- Go to SRM and connect websocket if it’s the first time
+- Disable c(h)atCore
+- Go to SRM and select "connect websocket"
 - Exit and restart Beat Saber to check that it connects each time as long as Streamer.Bot is running
 
