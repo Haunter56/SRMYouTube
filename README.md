@@ -1,5 +1,5 @@
 # SRMYouTube
-Streamer.Bot Import to let Beat Saber Song Request Manager work for YouTube Live Streaming
+[Streamer.Bot](https://streamer.bot/) Import to let Beat Saber [Song Request Manager](https://github.com/Krayn/SongRequestManager/releases) work for YouTube Live Streaming
 
 ## YouTube Tutorial
 ### Coming Soon!
