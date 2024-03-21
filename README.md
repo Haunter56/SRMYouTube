@@ -19,12 +19,11 @@
 
 
 
-### Create Websocket server in Streamer.Bot
-![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/29f3ade1-4c90-4c6e-951c-a78b08de1935)
+### Set Websocket server to Auto Start in Streamer.Bot (if desired)
+![image](https://github.com/Haunter56/SRMYouTube/assets/107263697/09f379e9-6c06-45cf-8045-9baf2f4849ae)
 
-- Make sure to assign "SRM-Connected" to the connected action and "SRM-Message" to the message action
-- Configure (instructions also on [Krayn's repository](https://github.com/Krayn/SongRequestManager/releases))
-- Make sure it is started and shows “open”
+- Go to Servers/Clients > Websocket Server > Edit the SRM Server
+- Check the Auto Start box
   
 ### Make sure websocket-sharp mod in Mod Assistant is installed
 - This is found under the "Libraries" Section
